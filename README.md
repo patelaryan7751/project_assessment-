@@ -1,2 +1,2 @@
 # project_assessment-
-Member Fork this repo and Pull request any past project you have made 
+Members Fork this repo and Pull request any past project you have made 
